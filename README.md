@@ -1,21 +1,21 @@
-# @philiprehberger/typed-router
+# @philiprehberger/ts-typed-router
 
-[![CI](https://github.com/philiprehberger/typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/typed-router/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/typed-router)
-[![License](https://img.shields.io/github/license/philiprehberger/typed-router)](LICENSE)
+[![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/ts-typed-router)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-typed-router)](LICENSE)
 
 Framework-agnostic typed URL routing with path parameter extraction.
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/typed-router
+npm install @philiprehberger/ts-typed-router
 ```
 
 ## Usage
 
 ```ts
-import { createRouter } from '@philiprehberger/typed-router';
+import { createRouter } from '@philiprehberger/ts-typed-router';
 
 const router = createRouter();
 
