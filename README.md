@@ -1,6 +1,6 @@
 # @philiprehberger/ts-typed-router
 
-[![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/ts-typed-router)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-typed-router)](LICENSE)
 
@@ -46,6 +46,15 @@ router.routes(); // list all registered routes
 | `add(method, path, handler)` | Register a route with `:param` placeholders |
 | `match(method, url)` | Find matching route, returns `{ handler, params }` or `null` |
 | `routes()` | List all registered routes |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
