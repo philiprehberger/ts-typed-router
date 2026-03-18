@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/ts-typed-router)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-typed-router)](LICENSE)
 
-Framework-agnostic typed URL routing with path parameter extraction.
+Framework-agnostic typed URL routing with path parameter extraction
 
 ## Installation
 
