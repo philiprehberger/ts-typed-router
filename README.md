@@ -1,6 +1,6 @@
 # @philiprehberger/ts-typed-router
 
-[![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/publish.yml)
+[![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/ts-typed-router)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-typed-router)](LICENSE)
 
