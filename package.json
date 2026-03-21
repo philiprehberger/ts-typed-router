@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/typed-router",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Framework-agnostic typed URL routing with path parameter extraction",
   "type": "module",
   "main": "./dist/index.cjs",
