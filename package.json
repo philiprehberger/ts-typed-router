@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/ts-typed-router",
+  "name": "@philiprehberger/typed-router",
   "version": "0.1.4",
   "description": "Framework-agnostic typed URL routing with path parameter extraction",
   "type": "module",
