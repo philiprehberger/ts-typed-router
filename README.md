@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/typed-router)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-typed-router)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Framework-agnostic typed URL routing with path parameter extraction
 
