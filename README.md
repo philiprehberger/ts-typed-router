@@ -1,8 +1,8 @@
 # @philiprehberger/typed-router
 
-[![CI](https://github.com/philiprehberger/typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/typed-router/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-typed-router/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/typed-router.svg)](https://www.npmjs.com/package/@philiprehberger/typed-router)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/typed-router)](https://github.com/philiprehberger/typed-router/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-typed-router)](https://github.com/philiprehberger/ts-typed-router/commits/main)
 
 Framework-agnostic typed URL routing with path parameter extraction
 
@@ -59,11 +59,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/typed-router)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-typed-router)
 
-🐛 [Report issues](https://github.com/philiprehberger/typed-router/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-typed-router/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/typed-router/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-typed-router/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
